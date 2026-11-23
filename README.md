@@ -24,5 +24,5 @@ I am a student and aspiring researcher passionate about **Artificial Intelligenc
 * **Interdisciplinary AI Capstone (In Progress):** Building an applied machine learning solution targeting real-world challenges in healthcare, agriculture, or information security.
 
 
-📫 **Connect with me:** [abdulrahmanawel1@gmail.com](mailto:abdulrahmanawel1@gmail.com) | [Telegram (@Abdu1_C1ph3r)](https://t.me)
+📫 **Connect with me:** [abdulrahmanawel1@gmail.com](mailto:abdulrahmanawel1@gmail.com) | [https://t.me/Abdu1_C1ph3r]
 
